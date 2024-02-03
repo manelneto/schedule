@@ -1,4 +1,0 @@
-C:/Users/manue/CLionProjects/schedule/cmake-build-debug/CMakeFiles/schedule.dir
-C:/Users/manue/CLionProjects/schedule/cmake-build-debug/CMakeFiles/Doxygen.dir
-C:/Users/manue/CLionProjects/schedule/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/manue/CLionProjects/schedule/cmake-build-debug/CMakeFiles/rebuild_cache.dir
